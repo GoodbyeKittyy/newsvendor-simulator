@@ -4,6 +4,11 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)
 
+</br>
+<img width="722" height="779" alt="image" src="https://github.com/user-attachments/assets/622595eb-e2f2-41a4-96fd-dd5a3f842244" />
+
+</br>
+
 A comprehensive bakery management simulator teaching the classic **newsvendor problem**: determining optimal inventory levels under uncertain demand for perishable goods. This project implements stochastic optimization techniques, critical fractile analysis, and Monte Carlo simulation to solve one of operations research's most fundamental challenges.
 
 ## 🎯 Problem Statement
@@ -84,6 +89,7 @@ Components:
 ```
 newsvendor-simulator/
 ├── README.md
+├── newsvendor_simulator.tsx       # TypeScript Interactive Artifact
 ├── newsvendor_backend.js          # Node.js Express API server
 ├── newsvendor_analytics.go        # Go optimization engine
 ├── newsvendor_forecasting.scala   # Scala demand prediction
@@ -523,41 +529,9 @@ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ```
 
-## 👨‍💻 Author
+---
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- Mathematical foundations from Stanford's Operations Research program
-- Distribution calculations inspired by NumPy/SciPy
-- UI design inspired by vintage newspaper layouts
-- Thanks to the operations research community
-
-## 🗺️ Roadmap
-
-### Version 1.1
-- [ ] Multi-product optimization
-- [ ] Real-time demand learning
-- [ ] A/B testing framework
-- [ ] Mobile-responsive design
-
-### Version 2.0
-- [ ] Machine learning demand forecasting
-- [ ] Dynamic pricing integration
-- [ ] Multi-period optimization
-- [ ] Blockchain for supply chain tracking
-
-## 📊 Project Statistics
-
-- **Lines of Code**: ~3,500
-- **Test Coverage**: 87%
-- **Documentation**: 100%
-- **Performance**: 99.9% uptime
-- **Response Time**: <100ms (p95)
+**⭐ Star this repository if you find it helpful!**
 
 ---
 
